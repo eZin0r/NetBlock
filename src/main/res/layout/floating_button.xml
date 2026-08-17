@@ -1,0 +1,9 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/floatingBtn"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:background="@drawable/floating_bg_off"
+    android:src="@drawable/ic_cup"
+    android:padding="12dp"
+    app:tint="@android:color/white" />

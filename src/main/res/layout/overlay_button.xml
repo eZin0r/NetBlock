@@ -1,0 +1,9 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overlayBtn"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:src="@android:drawable/ic_media_pause"
+    android:background="@android:color/holo_green_dark"
+    android:clickable="true"
+    android:focusable="true"
+    android:elevation="8dp"/>

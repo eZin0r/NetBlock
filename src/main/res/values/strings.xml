@@ -1,0 +1,4 @@
+<resources><string name="app_name">NetBlock</string>
+    <string name="remove">Remover</string>
+    <string name="app_icon">icon</string>
+</resources>
